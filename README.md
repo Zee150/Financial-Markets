@@ -5,3 +5,4 @@ This is not to be used as investment advice
 It's just meant to get an appreciation of what ML models can do,
 and what refinements need to be done to perfect models,
 and also to scrap/abandon useless models
+NB, not suitable to use SVM
